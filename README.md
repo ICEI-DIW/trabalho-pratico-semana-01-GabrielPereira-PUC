@@ -7,6 +7,7 @@ Nome: Gabriel Pereira Couto Rodrigues
 Matricula: 1589984
 
 ## Tela de inspeção com navegador
-
+![alt text](hello world)
 
 ## Tela de projeto no Replit
+![alt text](print DIW.png)
